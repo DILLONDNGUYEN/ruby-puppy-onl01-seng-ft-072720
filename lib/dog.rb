@@ -7,7 +7,7 @@
 # .print_all is a class method that puts out the name of each dog to the terminal 
 #  #save adds this dog instance to the @@all array when called  
 #  gets called inside initialize when a new Dog is created 
-# 
+#  
 
 
 
