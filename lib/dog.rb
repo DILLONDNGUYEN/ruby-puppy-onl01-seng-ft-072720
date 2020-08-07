@@ -7,7 +7,11 @@
 
 
 
-
+class Dog
+  
+  @@all = []
+  
+end
 
 
 
